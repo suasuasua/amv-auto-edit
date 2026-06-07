@@ -1,0 +1,10 @@
+﻿# Core dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+soundfile>=0.12.0
+librosa>=0.10.0
+scenedetect>=1.0.0
+Pillow>=10.0.0
+
+# Optional: VLM labeling (needs torch + transformers under ComfyUI Python env)
+# Refer to: P:\ComfyUI_windows_portable\python_embeded\python.exe

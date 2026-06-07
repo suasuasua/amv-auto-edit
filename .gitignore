@@ -1,0 +1,36 @@
+﻿# Output files (regeneratable)
+output/
+demo_output/
+output_multi/
+vlm_demo/
+
+# VLM cache (large model weights)
+vlm_cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Temp files
+b64.txt
+b64_cfg.txt
+_gen.py
+_fix.py
+_fix_struct.py
+_test.py
+_vlm_input.json
+_vlm_test.py
+_vlm_test2.py
+out.mp4
+test_*.wav
+test_*.mp4
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
